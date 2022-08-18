@@ -6,7 +6,7 @@ A Community Hack Client for the **block game**
 
 # Features
 - A great readme file
-- A **lots** of progress (readme file only)
+- **Lots** of progress (README.md only)
 
 # Hall of Idiots
 Congrats you where one of the people who changed something
