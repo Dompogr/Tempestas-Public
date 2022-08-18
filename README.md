@@ -17,7 +17,7 @@ Congrats you where one of the people who changed something
 - **singularweed** - Added a **full stop** on the end of Dom probably has done it here too...
 
 # Join the Discord
-https://discord.gg/VBWdbkyKcH
-We mainly talk about the crappy variation of our name
+Discord coming soon
+We mainly talk about the crappy variations of our name
 
 R.I.P In Piece DomHax
